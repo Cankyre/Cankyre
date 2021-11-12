@@ -11,7 +11,7 @@ I'm a young developer.
 * [PBR](https://github.com/ThatCookie/PBR) (Discontinued - very old)
 
 ### Finished projects
-* [NyaScript (old version)](https://githun.com/NyaScript/NyaScript-old)
+* [NyaScript (old version)](https://github.com/NyaScript/NyaScript-old)
 * [Tetostats Recorder](https://github.com/ThatCookie/Tetostats-recorder)
 
 ## Contributions
