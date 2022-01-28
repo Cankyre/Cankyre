@@ -1,13 +1,15 @@
-# ThatCookie
+# Cankyre
 I'm a young developer.
 ## Projects
 ### Currently working on
-* [NyaScript](https://github.com/NyaScript/NyaScript)
-* A huge update on [TetoBot](https://github.com/ThatCookie/Tetobot)
+* [ParpaingBot](https://github.com/rdparpaing/parpaing-bot)
+* [rdparpaing.github.io](https://rdparpaing.github.io)
 
 ### Unfinished projects
+* [NyaScript](https://github.com/NyaScript/NyaScript)
 * [Tetralino](https://github.com/ThatCookie/Tetralino)
 * [ThatBot](https://github.com/ThatCookie/ThatBot)
+* A huge update on [TetoBot](https://github.com/ThatCookie/Tetobot)
 * [PBR](https://github.com/ThatCookie/PBR) (Discontinued - very old)
 
 ### Finished projects
