@@ -5,16 +5,19 @@ I'm a young developer.
 * [ParpaingBot](https://github.com/rdparpaing/parpaing-bot)
 * [rdparpaing.github.io](https://rdparpaing.github.io)
 
-### Unfinished projects
+### Will soon work on
 * [NyaScript](https://github.com/NyaScript/NyaScript)
-* [Tetralino](https://github.com/ThatCookie/Tetralino)
-* [ThatBot](https://github.com/ThatCookie/ThatBot)
-* A huge update on [TetoBot](https://github.com/ThatCookie/Tetobot)
-* [PBR](https://github.com/ThatCookie/PBR) (Discontinued - very old)
 
 ### Finished projects
+* [3-questions request/report form](https://github.com/Cankyre/3-questions-report-form)
 * [NyaScript (old version)](https://github.com/NyaScript/NyaScript-old)
 * [Tetostats Recorder](https://github.com/ThatCookie/Tetostats-recorder)
+
+### Abandonned projects
+* [Tetralino](https://github.com/ThatCookie/Tetralino)
+* A huge update on [TetoBot](https://github.com/ThatCookie/Tetobot)
+* [PBR](https://github.com/ThatCookie/PBR) (very old)
+* [ThatBot](https://github.com/ThatCookie/ThatBot)
 
 ## Contributions
 * [TETR.JS](https://github.com/tetrjs/tetr.js)
