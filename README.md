@@ -3,9 +3,9 @@ I'm a young developer.
 ## Projects
 ### Currently working on
 * [ParpaingBot](https://github.com/rdparpaing/parpaing-bot)
-* [rdparpaing.github.io](https://rdparpaing.github.io)
 
 ### Will soon work on
+* [rdparpaing.github.io](https://rdparpaing.github.io)
 * [NyaScript](https://github.com/NyaScript/NyaScript)
 
 ### Finished projects
