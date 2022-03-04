@@ -4,6 +4,7 @@ I'm a young developer.
 ### Currently working on
 * [rdparpaing.github.io](https://rdparpaing.github.io)
 * [cankyre.github.io](https://cankyre.github.io)
+* New version of [Tetostats Recorder](https://github.com/ThatCookie/Tetostats-recorder)
 
 ### Will soon work on
 * [NyaScript](https://github.com/NyaScript/NyaScript)
@@ -13,8 +14,6 @@ I'm a young developer.
 * [ParpaingBot](https://github.com/rdparpaing/parpaing-bot)
 * [3-questions request/report form](https://github.com/Cankyre/3-questions-report-form)
 * [NyaScript (old version)](https://github.com/NyaScript/NyaScript-old)
-* [Tetostats Recorder](https://github.com/ThatCookie/Tetostats-recorder)
-
 
 ### Abandonned projects
 * [Tetralino](https://github.com/ThatCookie/Tetralino)
